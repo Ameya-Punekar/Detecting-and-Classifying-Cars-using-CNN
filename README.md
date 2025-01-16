@@ -1,6 +1,3 @@
-# Detecting-and-Classifying-Cars-using-CNN\
-
-# Car Detection Using CNNs
 
 This project implements a Convolutional Neural Network (CNN) for detecting cars in grayscale images using a sliding window approach. The model is trained to classify windows containing cars and outputs precise coordinates for detected regions in test images.
 
